@@ -1,0 +1,34 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "jimweller",
+  "description": "Claude Code plugins maintained by Jim Weller.",
+  "owner": {
+    "name": "Jim Weller"
+  },
+  "plugins": [
+    {
+      "name": "claude-mem",
+      "description": "Persistent cross-session memory with semantic search and observation tracking.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jimweller/claude-mem.git"
+      }
+    },
+    {
+      "name": "superpowers",
+      "description": "Skills library for TDD, systematic debugging, code review, and plan-driven development.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jimweller/superpowers.git"
+      }
+    },
+    {
+      "name": "lsp-enforcement-kit",
+      "description": "Stateless hooks that redirect Grep/Glob/bash-grep on code symbols to LSP/Serena tools.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jimweller/claude-code-lsp-enforcement-kit.git"
+      }
+    }
+  ]
+}

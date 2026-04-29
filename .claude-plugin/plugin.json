@@ -1,0 +1,10 @@
+{
+  "name": "jimweller-marketplace",
+  "version": "1.0.0",
+  "description": "Claude Code plugin marketplace for jimweller fork plugins.",
+  "author": {
+    "name": "Jim Weller"
+  },
+  "repository": "https://github.com/jimweller/claude-marketplace",
+  "license": "MIT"
+}
