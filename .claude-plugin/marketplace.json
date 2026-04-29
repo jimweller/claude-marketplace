@@ -10,8 +10,9 @@
       "name": "claude-mem",
       "description": "Persistent cross-session memory with semantic search and observation tracking.",
       "source": {
-        "source": "url",
-        "url": "https://github.com/jimweller/claude-mem.git"
+        "source": "git-subdir",
+        "url": "https://github.com/jimweller/claude-mem.git",
+        "path": "plugin"
       }
     },
     {
