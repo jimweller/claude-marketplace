@@ -30,6 +30,14 @@
         "source": "url",
         "url": "https://github.com/jimweller/claude-code-lsp-enforcement-kit.git"
       }
+    },
+    {
+      "name": "clanker-output-style-plugin",
+      "description": "Output style plus per-turn hook reinforcing a terse, non-deferential CLANKER register.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jimweller/clanker-output-style-plugin.git"
+      }
     }
   ]
 }
