@@ -32,6 +32,14 @@
       }
     },
     {
+      "name": "session",
+      "description": "Search, resume, and migrate Claude Code sessions across project folders.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jimweller/claude-session-plugin.git"
+      }
+    },
+    {
       "name": "clanker-output-style-plugin",
       "description": "Output style plus per-turn hook reinforcing a terse, non-deferential CLANKER register.",
       "source": {
