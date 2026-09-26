@@ -54,7 +54,8 @@
       "description": "Prose-contract writing rules, the prose skill, and prose evals for Claude Code.",
       "source": {
         "source": "url",
-        "url": "https://github.com/jimweller/clanker-prose-plugin.git"
+        "url": "https://github.com/jimweller/clanker-prose-plugin.git",
+        "ref": "0.1.1"
       }
     },
     {
