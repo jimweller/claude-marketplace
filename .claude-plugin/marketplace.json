@@ -36,7 +36,8 @@
       "description": "Search, resume, and migrate Claude Code sessions across project folders.",
       "source": {
         "source": "url",
-        "url": "https://github.com/jimweller/claude-session-plugin.git"
+        "url": "https://github.com/jimweller/claude-session-plugin.git",
+        "ref": "0.1.0"
       }
     },
     {
@@ -44,7 +45,8 @@
       "description": "Clanker Register rules, output style, SessionStart injection, and per-turn reinforcement hook.",
       "source": {
         "source": "url",
-        "url": "https://github.com/jimweller/clanker-chat-plugin.git"
+        "url": "https://github.com/jimweller/clanker-chat-plugin.git",
+        "ref": "0.3.0"
       }
     },
     {
@@ -60,7 +62,8 @@
       "description": "Nine-perspective code review skills (deep, full, diff, tickets) with a scripted collate/rank/verify back half and Claude reviewer agents.",
       "source": {
         "source": "url",
-        "url": "https://github.com/jimweller/clanker-code-review-plugin.git"
+        "url": "https://github.com/jimweller/clanker-code-review-plugin.git",
+        "ref": "0.1.1"
       }
     }
   ]
