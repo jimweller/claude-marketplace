@@ -54,6 +54,14 @@
         "source": "url",
         "url": "https://github.com/jimweller/clanker-prose-plugin.git"
       }
+    },
+    {
+      "name": "clanker-code-review",
+      "description": "Nine-perspective code review skills (deep, full, diff, tickets) with a scripted collate/rank/verify back half and Claude reviewer agents.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jimweller/clanker-code-review-plugin.git"
+      }
     }
   ]
 }

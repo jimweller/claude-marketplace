@@ -12,6 +12,7 @@ Plugin marketplace indexing jimweller fork plugins for Claude Code.
 | session             | original                                  | Search, resume, and migrate Claude Code sessions across project folders                       |
 | clanker-chat        | original                                  | Clanker Register rules, output style, SessionStart injection, and per-turn reinforcement hook |
 | clanker-prose       | original                                  | Prose-contract writing rules, the prose skill, and prose evals                                |
+| clanker-code-review | original                                  | Nine-perspective code review skills with a scripted collate/rank/verify back half             |
 
 ## Install
 
@@ -23,4 +24,5 @@ claude plugin install lsp-enforcement-kit
 claude plugin install session
 claude plugin install clanker-chat
 claude plugin install clanker-prose
+claude plugin install clanker-code-review
 ```
