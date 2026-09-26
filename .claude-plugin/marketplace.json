@@ -40,11 +40,19 @@
       }
     },
     {
-      "name": "clanker-output-style-plugin",
-      "description": "Output style plus per-turn hook reinforcing a terse, non-deferential CLANKER register.",
+      "name": "clanker-chat",
+      "description": "Clanker Register rules, output style, SessionStart injection, and per-turn reinforcement hook.",
       "source": {
         "source": "url",
-        "url": "https://github.com/jimweller/clanker-output-style-plugin.git"
+        "url": "https://github.com/jimweller/clanker-chat-plugin.git"
+      }
+    },
+    {
+      "name": "clanker-prose",
+      "description": "Prose-contract writing rules, the prose skill, and prose evals for Claude Code.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jimweller/clanker-prose-plugin.git"
       }
     }
   ]
