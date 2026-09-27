@@ -64,7 +64,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jimweller/clanker-code-review-plugin.git",
-        "ref": "0.1.6"
+        "ref": "0.1.7"
       }
     }
   ]
